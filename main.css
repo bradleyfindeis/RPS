@@ -1,0 +1,51 @@
+.header {
+    color: rgb(11, 11, 32) ;
+    font-size: 48px;
+    font-family: Segoe UI, 'Tahoma', Geneva, Verdana, sans-serif;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.paragraph {
+    color: rgb(197, 21, 21) ;
+    font-size: 24px;
+    font-family: Segoe UI, 'Tahoma', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#Rock {
+    width: 267px;
+    height: 300px ;
+    position: relative;
+    left: 2.5%;
+    
+    
+
+}
+
+#Paper {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 5%;
+    
+    
+
+}
+
+#Scissors {
+    width: 500px;
+    height: 259px;
+    position: relative;
+    left: 7.5%;
+    
+    
+
+}
